@@ -1,7 +1,5 @@
 # Gridbricks Wind Generation Forecast Evaluation & Decision Platform
 
-[![CI](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml)
-
 An end-to-end power trading analytics and decision support platform that evaluates Great Britain national wind generation forecasts against actual settlement outturn for January 2026. The platform enables power buyers and traders to establish optimal day-ahead physical procurement schedules and calculate data-driven risk buffers to avoid costly Balancing Mechanism (BM) cashout penalties.
 
 ---
